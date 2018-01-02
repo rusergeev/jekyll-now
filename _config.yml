@@ -29,7 +29,7 @@ footer-links:
   twitter: 2dmi3
   stackoverflow: users/1861271/dmitry-sergeev
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: u/0/103479930725503910770
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
