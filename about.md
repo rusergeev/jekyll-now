@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software engineer with an experience in multiple industries.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a solid experience in back-end.
+I am learning web-related stuff. 
+Also my hobby is machine learning.
 
 ### Contact me
 
