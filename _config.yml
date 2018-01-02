@@ -19,12 +19,12 @@ avatar: https://emojipedia-us.s3.amazonaws.com/thumbs/320/apple/118/thinking-fac
 footer-links:
   dribbble:
   email: ru.sergeev@gmail.com
-  facebook: dmitry.sergeev.165470
-  flickr: ru.sergeev1
+  facebook:
+  flickr:
   github: rusergeev/rusergeev.github.io
   instagram:
   linkedin: dsergeev
-  pinterest: rusergeev
+  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 2dmi3
   stackoverflow: users/1861271/dmitry-sergeev
