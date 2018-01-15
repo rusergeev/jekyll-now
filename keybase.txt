@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/sergeev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rusergeev.github.io
+  * I am sergeev (https://keybase.io/sergeev) on keybase.
+  * I have a public key ASBBXs6ffKshBqY2ZMAw_8oxRpQuDAB9SdpNDCS-iOiNVwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f96083cbdb251dc026e11a881a9a169b0c806b47da339e0d883da2637c95a5a0a",
+      "host": "keybase.io",
+      "kid": "0120415ece9f7cab2106a63664c030ffca3146942e0c007d49da4d0c24be88e88d570a",
+      "uid": "bc11fdaaa261bc9c2b7b9e6ad1f40819",
+      "username": "sergeev"
+    },
+    "merkle_root": {
+      "ctime": 1516001766,
+      "hash": "204681f396ce5c0afe6844f898f3b01fc02e125299810a400e9c24775d7aefe1859c63bd9c19213cd26027a40add15119c818575d39dad3ad48382acd9aa962c",
+      "hash_meta": "bf2e1bedea35dda864cb2a25d0a8d19f6577d20d852a47ee251c617408d81345",
+      "seqno": 1927308
+    },
+    "service": {
+      "hostname": "rusergeev.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1516001840,
+  "expire_in": 504576000,
+  "prev": "cf8c98fecb8585dce3838e98dfeffab385cacb58f142ef60f5a987c27593b9ab",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQV7On3yrIQamNmTAMP/KMUaULgwAfUnaTQwkvojojVcKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWY5NjA4M2NiZGIyNTFkYzAyNmUxMWE4ODFhOWExNjliMGM4MDZiNDdkYTMzOWUwZDg4M2RhMjYzN2M5NWE1YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDE1ZWNlOWY3Y2FiMjEwNmE2MzY2NGMwMzBmZmNhMzE0Njk0MmUwYzAwN2Q0OWRhNGQwYzI0YmU4OGU4OGQ1NzBhIiwidWlkIjoiYmMxMWZkYWFhMjYxYmM5YzJiN2I5ZTZhZDFmNDA4MTkiLCJ1c2VybmFtZSI6InNlcmdlZXYifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTYwMDE3NjYsImhhc2giOiIyMDQ2ODFmMzk2Y2U1YzBhZmU2ODQ0Zjg5OGYzYjAxZmMwMmUxMjUyOTk4MTBhNDAwZTljMjQ3NzVkN2FlZmUxODU5YzYzYmQ5YzE5MjEzY2QyNjAyN2E0MGFkZDE1MTE5YzgxODU3NWQzOWRhZDNhZDQ4MzgyYWNkOWFhOTYyYyIsImhhc2hfbWV0YSI6ImJmMmUxYmVkZWEzNWRkYTg2NGNiMmEyNWQwYThkMTlmNjU3N2QyMGQ4NTJhNDdlZTI1MWM2MTc0MDhkODEzNDUiLCJzZXFubyI6MTkyNzMwOH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJydXNlcmdlZXYuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTYwMDE4NDAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiY2Y4Yzk4ZmVjYjg1ODVkY2UzODM4ZTk4ZGZlZmZhYjM4NWNhY2I1OGYxNDJlZjYwZjVhOTg3YzI3NTkzYjlhYiIsInNlcW5vIjoyNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB5vAceTuPdG/4Q8Wj04r/T37GWxmS6avmRdJXmT0OzYbUzVe2hnegzt8Eby/J4m13c25jFNF4R7ZbmuaIiI4MJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgai/05u26qcoc+6FmRmLtOKBZyTBjeU+Hc8XId3hXlbSjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sergeev
+
+==================================================================
