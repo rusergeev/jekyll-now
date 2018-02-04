@@ -4,9 +4,9 @@ comments: true
 title: W hotel: Fantastic music
 ---
 
-![screenshot](/images/IMG_0359.jpg)
-
 I was going trough my hotel applications and found an "old friend": W Hotels Worldwide.
+
+![screenshot](/images/IMG_0359.jpg)
 
 It is not like others. It does not sell you room nights. It plays an incredable music for you. 
 The very same or alike you heard in one of the W hotels by a pool or in a looby. And you are sold.
