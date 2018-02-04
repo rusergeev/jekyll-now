@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: W hotel - Fantastic music
+title: W - Fantastic music
 ---
 
 I was going trough my hotel applications and found an "old friend": W Hotels Worldwide.
