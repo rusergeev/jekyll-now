@@ -15,6 +15,9 @@ I enjy the location and intersting work.
 ### Contact me
 
 [✉️ ru.sergeev@gmail.com](mailto:ru.sergeev+github@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/dsergeev/)
+
 [FB:ru.sergeev](https://www.facebook.com/ru.sergeev) 
+
 [Twitter: @2dmi3](https://twitter.com/2dmi3)
