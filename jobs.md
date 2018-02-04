@@ -7,7 +7,8 @@ permalink: /jobs/
 ### Professional
 
 I am a software engineer with an experience in multiple industries.
-Here are the awesome companies I use to be part of:
+
+Here are the awesome companies I used to be part of:
 - Booking.com
 - Schlumberger
 - Softlab-NSK
