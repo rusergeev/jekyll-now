@@ -4,22 +4,22 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer with an experience in multiple industries.
+I live in Amsterdam enjoying the energetic city.
+
+It is an oppotunity for me to travel in Europe, to see more more places.
 
 ### Some more
 
-I live in Amsterdam.
+I like photography as many this days. Many of my friends recognize me as a good picture maker.
 
-I enjoy the energetic city.
+I like care a compact camera. But nowdays smarphones are getting so advanced, I may sell my Canon 1X.
 
-For whom it might concerned: [resume](https://goo.gl/GdRt7c);
+The professional life are on the [this](/jobs) page.
 
-### Contact me
+### Social ☭
 
-✉️ [ru.sergeev@gmail.com](mailto:ru.sergeev+github@gmail.com)
+FB: [ru.sergeev](https://www.facebook.com/ru.sergeev) 👍🏻
 
-LinkedIn: [rusergeev](https://www.linkedin.com/in/dsergeev/)
+Twitter: [@2dmi3](https://twitter.com/2dmi3) 🐦
 
-FB: [ru.sergeev](https://www.facebook.com/ru.sergeev) 
-
-Twitter: [@2dmi3](https://twitter.com/2dmi3)
+Instagram: [ru.sergeev](https://www.instagram.com/ru.sergeev/) ❤️
