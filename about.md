@@ -12,6 +12,8 @@ I live in Amsterdam.
 
 I enjoy the energetic city.
 
+For whom it might concerned: [resume](https://goo.gl/GdRt7c);
+
 ### Contact me
 
 ✉️ [ru.sergeev@gmail.com](mailto:ru.sergeev+github@gmail.com)
