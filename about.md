@@ -14,9 +14,9 @@ I like photography as many this days. Many of my friends recognize me as a good 
 
 I like care a compact camera. But nowdays smarphones are getting so advanced, I may sell my Canon 1X.
 
-The professional life are on the [this](/jobs) page.
+The professional life are on the [this](https://rusergeev.github.io/jobs/) page.
 
-### Social ☭
+### Social ☭ likes
 
 FB: [ru.sergeev](https://www.facebook.com/ru.sergeev) 👍🏻
 
