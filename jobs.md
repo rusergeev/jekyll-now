@@ -4,6 +4,15 @@ title: Jobs
 permalink: /jobs/
 ---
 
+## Steven Paul
+![Steve Jobs](/images/STEVE-JOBS.jpg)
+
+February 24, 1955 – October 5, 2011
+
+Great man.
+
+Now about myself...
+
 ### Professional
 
 I am a software engineer with an experience in multiple industries.
