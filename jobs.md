@@ -28,6 +28,8 @@ Here are the awesome companies I used to be part of:
 
 For whom it might concerned: [resume](https://goo.gl/GdRt7c);
 
+And other stuf is in [About](https://rusergeev.github.io/about/)
+
 ### Need help? - Contact me
 
 ✉️ [ru.sergeev@gmail.com](mailto:ru.sergeev+github@gmail.com)
