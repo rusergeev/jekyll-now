@@ -21,11 +21,11 @@ footer-links:
   email: ru.sergeev@gmail.com
   facebook: ru.sergeev
   flickr:
-  github: rusergeev/rusergeev.github.io
+  github: rusergeev
   instagram: ru.sergeev
   linkedin: dsergeev
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter: 2dmi3
   stackoverflow: users/1861271/dmitry-sergeev
   youtube:
