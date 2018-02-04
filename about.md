@@ -8,9 +8,9 @@ I am a software engineer with an experience in multiple industries.
 
 ### Some more
 
-I live in Amsterdam, work at Booking.com.
+I live in Amsterdam.
 
-I enjy the location and intersting work.
+I enjoy the energetic city.
 
 ### Contact me
 
