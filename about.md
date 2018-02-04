@@ -6,12 +6,15 @@ permalink: /about/
 
 I am a software engineer with an experience in multiple industries.
 
-### More Information
+### Some more
 
-I have a solid experience in back-end.
-I am learning web-related stuff. 
-Also my hobby is machine learning.
+I live in Amsterdam, work at Booking.com.
+
+I enjy the location and intersting work.
 
 ### Contact me
 
-[ru.sergeev@gmail.com](mailto:ru.sergeev+github@gmail.com)
+[✉️ ru.sergeev@gmail.com](mailto:ru.sergeev+github@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dsergeev/)
+[FB:ru.sergeev](https://www.facebook.com/ru.sergeev) 
+[Twitter: @2dmi3](https://twitter.com/2dmi3)
