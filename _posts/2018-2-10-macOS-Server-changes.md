@@ -14,6 +14,9 @@ Many services macOS Server we like are going awaiy. Actually Apple started hidin
 
 ![](/images/macos-advanced.png)
 
+## What is going away?
+Cupertino plans to stop supporting DHCP, DNS, mail, messages, NetInstall, VPN, the Web server, the Wiki, as well as calendar and contact support.
+
 ## Learn more:
 - [Todd Olthoff YouTube channel](https://youtu.be/VuSn2OO2TW0)
 - [Apple website](https://support.apple.com/en-us/HT208312)
