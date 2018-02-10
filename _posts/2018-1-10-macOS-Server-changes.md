@@ -11,6 +11,7 @@ A number of services will be deprecated, and will be hidden on new installations
 
 ## That means:
 Many services macOS Server we like are going awaiy. Actually Apple started hiding them under the menu already.
+
 ![](/images/macos-advanced.png)
 
 ## Learn more:
